@@ -16,7 +16,7 @@ Legacy Launcher is a simple, light and fast Minecraft Launcher. But, the problem
 
 1. Open any terminal emulator such as `xfce4-terminal`, `konsole`, `Alacritty`, `kitty`, `terminator` or just use the `tty` if that's the only option or if ssh'd into a machine.
 
-2. Clone the repository: `git clone https://github.com/lifium/llaunch-archlinux-bin`
+2. Clone the repository: `git clone https://github.com/rminstrel/llaunch-archlinux-bin`
 
 3. Go to folder to install the package: `cd llaunch-archlinux-bin`
 
